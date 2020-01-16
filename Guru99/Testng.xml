@@ -1,0 +1,9 @@
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Guru99">
+ <test name="testGuru">
+ <classes>
+ <class name="ecommerce.Guru99.DemoGuruEcomm" />
+  <class name="ecommerce.Guru99.GuruLogin" />
+  </classes>
+ </test>
+</suite>

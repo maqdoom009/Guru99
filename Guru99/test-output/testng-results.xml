@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Guru99" duration-ms="171265" started-at="2020-01-16T21:00:00Z" finished-at="2020-01-16T21:02:51Z">
+    <groups>
+    </groups>
+    <test name="testGuru" duration-ms="171265" started-at="2020-01-16T21:00:00Z" finished-at="2020-01-16T21:02:51Z">
+      <class name="ecommerce.Guru99.GuruLogin">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:ecommerce.Guru99.GuruLogin@4520ebad]" name="LoginTest" duration-ms="140291" started-at="2020-01-16T16:00:29Z" finished-at="2020-01-16T16:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- ecommerce.Guru99.GuruLogin -->
+      <class name="ecommerce.Guru99.DemoGuruEcomm">
+        <test-method status="PASS" signature="launch()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@58651fd0]" name="launch" is-config="true" duration-ms="15451" started-at="2020-01-16T16:00:00Z" finished-at="2020-01-16T16:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@58651fd0]" name="Test1" duration-ms="44" started-at="2020-01-16T16:00:16Z" finished-at="2020-01-16T16:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@58651fd0]" name="Test2" duration-ms="8015" started-at="2020-01-16T16:00:16Z" finished-at="2020-01-16T16:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@58651fd0]" name="Test3" duration-ms="5225" started-at="2020-01-16T16:00:24Z" finished-at="2020-01-16T16:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@58651fd0]" name="close" is-config="true" duration-ms="2208" started-at="2020-01-16T16:02:49Z" finished-at="2020-01-16T16:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- ecommerce.Guru99.DemoGuruEcomm -->
+    </test> <!-- testGuru -->
+  </suite> <!-- Guru99 -->
+</testng-results>
