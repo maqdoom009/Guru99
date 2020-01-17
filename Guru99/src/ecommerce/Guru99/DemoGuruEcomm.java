@@ -19,7 +19,7 @@ public class DemoGuruEcomm {
 	
 	@BeforeTest
 	public void launch(){
-		System.setProperty("webdriver.chrome.driver", "");
+		System.setProperty("webdriver.gecko.driver", "‪D:\\Drivers\\geckodriver-v0.25.0-win64\\geckodriver.exe");
 		driver = new FirefoxDriver();
 		String Url = " http://live.demoguru99.com/index.php/";
 		driver.get(Url);
