@@ -2,12 +2,12 @@
 <testng-results skipped="3" failed="0" ignored="0" total="3" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="264" started-at="2020-01-16T21:44:27Z" finished-at="2020-01-16T21:44:27Z">
+  <suite name="Default suite" duration-ms="467" started-at="2020-01-17T03:33:18Z" finished-at="2020-01-17T03:33:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="264" started-at="2020-01-16T21:44:27Z" finished-at="2020-01-16T21:44:27Z">
+    <test name="Default test" duration-ms="467" started-at="2020-01-17T03:33:18Z" finished-at="2020-01-17T03:33:18Z">
       <class name="ecommerce.Guru99.DemoGuruEcomm">
-        <test-method status="FAIL" signature="launch()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="launch" is-config="true" duration-ms="182" started-at="2020-01-16T16:44:27Z" finished-at="2020-01-16T16:44:27Z">
+        <test-method status="FAIL" signature="launch()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="launch" is-config="true" duration-ms="321" started-at="2020-01-16T22:33:18Z" finished-at="2020-01-16T22:33:18Z">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases]]>
@@ -52,7 +52,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method status="SKIP" signature="Test1()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="Test1" duration-ms="25" started-at="2020-01-16T16:44:27Z" finished-at="2020-01-16T16:44:27Z">
+        <test-method status="SKIP" signature="Test1()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="Test1" duration-ms="15" started-at="2020-01-16T22:33:18Z" finished-at="2020-01-16T22:33:18Z">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases]]>
@@ -97,7 +97,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method status="SKIP" signature="Test2()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="Test2" duration-ms="0" started-at="2020-01-16T16:44:27Z" finished-at="2020-01-16T16:44:27Z">
+        <test-method status="SKIP" signature="Test2()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="Test2" duration-ms="0" started-at="2020-01-16T22:33:18Z" finished-at="2020-01-16T22:33:18Z">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases]]>
@@ -142,7 +142,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
-        <test-method status="SKIP" signature="Test3()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="Test3" duration-ms="0" started-at="2020-01-16T16:44:27Z" finished-at="2020-01-16T16:44:27Z">
+        <test-method status="SKIP" signature="Test3()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="Test3" duration-ms="0" started-at="2020-01-16T22:33:18Z" finished-at="2020-01-16T22:33:18Z">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases]]>
@@ -187,7 +187,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test3 -->
-        <test-method status="SKIP" signature="close()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="close" is-config="true" duration-ms="0" started-at="2020-01-16T16:44:27Z" finished-at="2020-01-16T16:44:27Z">
+        <test-method status="SKIP" signature="close()[pri:0, instance:ecommerce.Guru99.DemoGuruEcomm@5034c75a]" name="close" is-config="true" duration-ms="0" started-at="2020-01-16T22:33:18Z" finished-at="2020-01-16T22:33:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

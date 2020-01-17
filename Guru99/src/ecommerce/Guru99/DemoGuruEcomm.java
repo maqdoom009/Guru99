@@ -19,6 +19,7 @@ public class DemoGuruEcomm {
 	
 	@BeforeTest
 	public void launch(){
+		System.setProperty("webdriver.chrome.driver", "");
 		driver = new FirefoxDriver();
 		String Url = " http://live.demoguru99.com/index.php/";
 		driver.get(Url);
